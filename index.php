@@ -53,18 +53,15 @@
 
 
 </div>
-	<div align="center" class="box">
+    <div align="center" class="box">
 	<form method="POST" action="register.php">
-     <p class="p"><strong>Name</strong></p>
-     <input type="text" name="name" placeholder="Name"><br>
-
-     <p class="p"><strong>Email</strong></p>
-     <input type="text" name="email" placeholder="Name"><br>
-
-     <p style="margin-top: 10px; margin-right: 150px; color: white;"><strong>Senha</strong></p>
-     <input type="text" name="password" placeholder="Password"><br><br>
-
-     <input type="submit" name="send" value="Send in" class="input">
+	     <p class="p"><strong>Name</strong></p>
+	     	<input type="text" name="name" placeholder="Name"><br>
+	     		<p class="p"><strong>Email</strong></p>
+	     			<input type="text" name="email" placeholder="Name"><br>
+	     		<p style="margin-top: 10px; margin-right: 150px; color: white;"><strong>Senha</strong></p>
+	     	<input type="text" name="password" placeholder="Password"><br><br>
+	     <input type="submit" name="send" value="Send in" class="input">
 	</form>
-	</div>
+   </div>
 </section>
